@@ -1,2 +1,2 @@
-# Lead_scoring_N
+# Lead_scoring_Naresh
 Lead_scoring_case_study_Naresh
